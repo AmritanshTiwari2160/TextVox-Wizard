@@ -2,7 +2,7 @@
 
 Welcome to TextVox Wizard, a versatile and user-friendly web application that seamlessly integrates Text-to-Speech (TTS) and Speech-to-Text (STT) capabilities. This project is designed to provide an interactive and engaging experience for users interested in exploring the world of speech synthesis and recognition.
 
-Features:
+## Features:
 1. Text-to-Speech (TTS)
 Easy Text Input: Enter the desired text into the provided text area.
 
