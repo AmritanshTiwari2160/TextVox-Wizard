@@ -45,7 +45,6 @@ body {
     font-size: 4rem;
 }
 
-/* Small devices (576px and below) */
 @media (max-width: 576px) {
     .card {
         margin-bottom: 10px;
